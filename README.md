@@ -1,7 +1,7 @@
 # Project Title
 
 ## Project Description
-<p align="center">This project simulates a nutritional table that displays the patient, its height, weight and grease to calculate its IMC. Besides, it contents a form to add new patients and a filter that can be applied to find a specific patient usind regex. </p>
+<p>This project simulates a nutritional table that displays the patient, its height, weight and grease to calculate its IMC. Besides, it contents a form to add new patients and a filter that can be applied to find a specific patient usind regex. </p>
 
 
 <!-- status -->
