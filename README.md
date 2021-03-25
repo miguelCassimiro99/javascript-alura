@@ -42,6 +42,6 @@ The follow technologies and frameworks that were used on the project:
 - [Javscript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 ### Autor
-Miguel Cassimiro
-LinkedIn: https://www.linkedin.com/in/miguel-cassimiro
-Gmail: miguel.cassimiro99@gmail.com
+<p>Miguel Cassimiro</p>
+<p>LinkedIn: https://www.linkedin.com/in/miguel-cassimiro</p>
+<p>Gmail: miguel.cassimiro99@gmail.com</p>
